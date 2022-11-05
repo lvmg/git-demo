@@ -3,6 +3,7 @@ hello git !
 --------------------------
 hello git !
 hello git !
+<<<<<<< HEAD
 hello git !
 hello git !
 hello git !
@@ -13,4 +14,5 @@ hello git !
 hello git !
 hello git !
 hello git ! master branch
-hello git !
+hello git ! slave branch
+the end!
