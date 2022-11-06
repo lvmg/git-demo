@@ -6,16 +6,11 @@ hello git !
 <<<<<<< HEAD
 hello git !
 hello git !
-hello git !
-hello git !
-hello git !
-hello git !
-hello git !
-hello git !
-hello git !
 hello git ! master branch
 hello git ! slave branch
 the end!
 111111111111111111111111
 mnglv created in 2022/11/6
 with a test practice
+------------------------
+update by mmglv 
