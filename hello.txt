@@ -3,7 +3,6 @@ hello git !
 --------------------------
 hello git !
 hello git !
-<<<<<<< HEAD
 hello git !
 hello git !
 hello git ! master branch
@@ -14,3 +13,5 @@ mnglv created in 2022/11/6
 with a test practice
 ------------------------
 update by mmglv 
+--------------------------
+test ssh connection
