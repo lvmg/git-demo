@@ -2,8 +2,7 @@ the first component change
 hello git !
 --------------------------
 hello git !
-hello git !
-hello git !
+Well Done
 hello git !
 hello git ! master branch
 hello git ! slave branch
